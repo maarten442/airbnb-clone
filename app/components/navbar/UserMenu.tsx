@@ -57,7 +57,7 @@ const UserMenu = () => {
                         rounded-full
                         cursor-pointer
                         hover:shadow-md
-                        transtion
+                        transition
                     "
                 >
                     < AiOutlineMenu />
