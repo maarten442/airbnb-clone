@@ -9,14 +9,13 @@ const Search = () => {
            md:w-auto
            py-2
            rounded-full
-           shadow-sm
-           hover:shadow-sm 
+           hover:shadow-sm  
            transition
            cursor-pointer
         "
         >
             <div className="
-                flex
+                flex    
                 flex-row
                 items-center
                 justify-between
@@ -49,7 +48,7 @@ const Search = () => {
                     flex-row
                     items-center
                     gap-3
-                ">
+                ">  
                     <div className="
                         hidden
                         sm:block
